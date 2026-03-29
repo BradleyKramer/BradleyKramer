@@ -1,23 +1,20 @@
 <table>
   <tr>
     <td width="38%" valign="top" align="center">
-  <img src="./pfp-ASCII.png" width="260" />
+  <img src="./pfp-ascii.png" width="260" />
     </td>
     <td width="58%" valign="top">
 
 ## Hi, I'm Brad 👋
 
-🎓 Information Systems & Data Science @ Loyola University Maryland  
-📊 Aspiring Data Scientist | Analytics | AI Applications  
-
+- 🎓 Information Systems & Data Science @ Loyola University Maryland
+- 📍 Proudly based between Baltimore and DC
+- 🎯 Seeking opportunities in data science, analytics, or data-driven development
 
 I love looking through data to figure out the “why” behind how things work, and I’m always looking for a new project to build or a dataset to dig into. In my free time, you’ll usually find me making yet another Excel spreadsheet, designing a random app, or diving headfirst into a side project I thought of just this morning. There’s no rabbit hole I won’t go down, so if you’re willing to teach, I’m ready to learn! 
     </td>
   </tr>
 </table>
-'''
-
-
 
 <p align="center">
   <picture>
