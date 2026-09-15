@@ -11,7 +11,7 @@
 - 📍 Proudly based between Baltimore and DC
 - 🎯 Seeking opportunities in data science, analytics, or data-driven development
 
-I love looking through data to figure out the “why” behind how things work, and I’m always looking for a new project to build or a dataset to dig into. In my free time, you’ll usually find me making yet another Excel spreadsheet, designing a random app, or diving headfirst into a side project I thought of just this morning. There’s no rabbit hole I won’t go down, so if you’re willing to teach, I’m ready to learn! 
+I love looking through data to figure out the “why” behind how things work, and I’m always looking for a new project to build or a dataset to dig into. In my free time, you’ll usually find me making yet another Excel spreadsheet, designing a random app, or diving headfirst into a side project I thought of just this morning. I love big data and making visualizations around unique and hidden statistics I find while I'm browsing. There’s no rabbit hole I won’t go down, so if you’re willing to teach, I’m ready to learn! 
     </td>
   </tr>
 </table>
